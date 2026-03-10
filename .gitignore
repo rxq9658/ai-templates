@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+.next/
+out/
+.turbo/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.pem
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build
+dist/
+build/
+*.log
+
+# Temporary
+tmp/
+temp/
+*.tmp
